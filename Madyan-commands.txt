@@ -1,0 +1,9 @@
+- cd : change directory
+
+- pwd : present working directory
+
+- ls : List all files in directory
+
+- mkdir : make a new directory
+
+- touch : Create an empty file
